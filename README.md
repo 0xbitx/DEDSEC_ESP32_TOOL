@@ -7,7 +7,7 @@
 
 
 
-### PAYLOAD DESCRIPTIONS 
+### PAYLOAD DESCRIPTION
 
 | payload | Type     | Description                |
 | :-------- | :------- | :------------------------- |
